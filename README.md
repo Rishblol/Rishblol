@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Python, CSS and JS
 - 📫 How to reach me: 
 Email - rish90093@gmail.com
+- ⚡ Fun fact: I play basketball and a trained Hindustani Classical Musician
 
 <!--
 **Rishblol/Rishblol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
