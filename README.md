@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ur mum
+- 🌱 I’m currently learning Python, CSS and JS
+- 📫 How to reach me: 
+Email : rish90093@gmail.com
+
 <!--
 **Rishblol/Rishblol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
