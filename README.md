@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python, CSS and JS
-- 📫 How to reach me: 
+- 🌱 I’m currently how things in life don't work your way
+- 📫
 Email - rish90093@gmail.com
+LinkedIn - https://in.linkedin.com/in/rishabh-lal-259932287
 - ⚡ Fun fact: I play basketball and a trained Hindustani Classical Musician
 
 <!--
