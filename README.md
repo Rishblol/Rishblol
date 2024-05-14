@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently how things in life don't work your way
+- 🌱 I’m currently learning r3f
 - 📫
 Email - rish90093@gmail.com
 LinkedIn - https://in.linkedin.com/in/rishabh-lal-259932287
-- ⚡ Fun fact: I play basketball and a trained Hindustani Classical Musician
+- ⚡ Fun fact: I play basketball and am a trained Hindustani Classical Musician
 
 <!--
 **Rishblol/Rishblol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
