@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning r3f
 - 📫
 Email - rish90093@gmail.com
 LinkedIn - https://in.linkedin.com/in/rishabh-lal-259932287
