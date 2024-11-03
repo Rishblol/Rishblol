@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫
-Email - rish90093@gmail.com
+Email - lalrishabh2106@gmail.com
 LinkedIn - https://in.linkedin.com/in/rishabh-lal-259932287
 - ⚡ Fun fact: I play basketball and am a trained Hindustani Classical Musician
 
