@@ -3,12 +3,6 @@
 Email - lalrishabh2106@gmail.com
 LinkedIn - https://in.linkedin.com/in/rishabh-lal-259932287
 - ⚡ Fun fact: I play basketball and am a trained Hindustani Classical Musician
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishblol&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rishblol&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishblol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <!--
 **Rishblol/Rishblol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
