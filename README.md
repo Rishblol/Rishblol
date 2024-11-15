@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫
 Email - lalrishabh2106@gmail.com
-LinkedIn - [https://in.linkedin.com/in/rishabh-lal-259932287](https://www.linkedin.com/in/lal-rishabh/)
+LinkedIn - [Rishabh Lal](https://www.linkedin.com/in/lal-rishabh/)
 - ⚡ Fun fact: I play basketball and am a trained Hindustani Classical Musician
 <!--
 **Rishblol/Rishblol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
