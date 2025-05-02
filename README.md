@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+- 🌱 I’m currently exploring this vast world of cybersecurity
 - 📫
 Email - lalrishabh2106@gmail.com
 LinkedIn - [Rishabh Lal](https://www.linkedin.com/in/lal-rishabh/)
-- ⚡ Fun fact: I play basketball and am a trained Hindustani Classical Musician
+- ⚡ Fun fact: I play basketball and am a trained Hindustani vocalist
 <!--
 **Rishblol/Rishblol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
