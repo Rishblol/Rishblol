@@ -1,10 +1,9 @@
 ### Hello there 👋
-- 🌱 I’m currently exploring this vast world of cybersecurity
+- 🌱 I’m currently exploring this vast world of cybersecurity and learning how to {{7**7}}
 - 📫
 Email - lalrishabh2106@gmail.com
 LinkedIn - [Rishabh Lal](https://www.linkedin.com/in/lal-rishabh/)
 - ⚡ Fun fact: I play basketball and am a trained Hindustani vocalist
-![](https://komarev.com/ghpvc/?username=rishblol&color=blue)
 
 
 <!--
