@@ -4,6 +4,9 @@
 Email - lalrishabh2106@gmail.com
 LinkedIn - [Rishabh Lal](https://www.linkedin.com/in/lal-rishabh/)
 - ⚡ Fun fact: I play basketball and am a trained Hindustani vocalist
+![](https://komarev.com/ghpvc/?username=rishblol&color=blue)
+
+
 <!--
 **Rishblol/Rishblol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
