@@ -1,6 +1,5 @@
 ### Hello there 👋
 - 🌱 I’m currently exploring this vast world of cybersecurity, especially Web Exploitation.
-- 📫
 * Email - lalrishabh2106@gmail.com
 * LinkedIn - [Rishabh Lal](https://www.linkedin.com/in/lal-rishabh/)
 * Website - rishblo.github.io
